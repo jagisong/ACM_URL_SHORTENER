@@ -12,7 +12,7 @@ This is a URL SHORTENER website. An URL shortener is a website that reduces the 
 - Detailed User Interface
 
 ## Tech Stack
-**Client:** MERN STACK
+**Client:** NodeJs, ExpressJs, MongoDB
 **Software:** Visual Studio Code
 ### How to run code
 This website is using localhost 3000.
